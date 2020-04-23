@@ -198,3 +198,9 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+a:hover {
+    background-color:#07557c;
+
+}
+
